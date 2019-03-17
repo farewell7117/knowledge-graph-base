@@ -20,7 +20,7 @@ The complexity of the data generated from non-Euclidean domains has imposed sign
 
 ### Dataset
 
-TBD
+[Cora](https://relational.fit.cvut.cz/dataset/CORA)
 
 ### ML skill levels of the group members
 
